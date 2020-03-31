@@ -13,13 +13,25 @@ Moving Median Filter
 Rolling Gudance Filter
 Canny Edge Detector
 
-## Implementation
 
 ## Method
+1. smooth image
+2. edge detection
+3. line and corner detection / forground extraction / region extraction
+4. area coloring.
+
+
+## Implementation
 TensorFlow
 Nodejs
+
 ## Results
 
 ## Conclusion
 
 ## Refrences
+
+## Resorces
+This is a spot for useful resorces i used for development
+
+https://www.tensorflow.org/addons/api_docs/python/tfa
